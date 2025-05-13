@@ -11,7 +11,7 @@ function getrandomchar(){ //for getting any random character
     return characters[randomchar] //returning a random charcater from characters array for eg characters[5 //any random number] so character[5]=F
 }
 
-let passwordlen = 6
+let passwordlen = 8
 
 function getrandompass(passlen){
     let password = ""; // Reset password for each call
