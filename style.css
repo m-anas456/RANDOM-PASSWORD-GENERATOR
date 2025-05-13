@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Oxanium:wght@200..800&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "karla";
+    background-color: #1F2937;
+    color: white;
+}
+
+.main{
+    padding: 10px 20px;
+    min-width: 300px;
+}
+span{
+    color:#0EA5E9;
+}
+#slogan{
+    margin-top: 10px;
+}
+button{
+    margin-top: 20px;
+    background-color:#0EA5E9;
+    border-radius: 4px;
+    border: none;
+    padding: 7px 15px;
+    color: white;
+}
+button:hover{
+    box-shadow: 0 0 10px #0EA5E9;
+    transition: all 0.3s ease;
+}
+
+input{
+    background-color: #273549;
+    border: none;
+    padding: 5px 4px;
+    border-radius:4px ;
+    margin-left: 10px;
+    color:#0EA5E9;
+}
